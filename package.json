@@ -1,0 +1,21 @@
+{
+    "name": "avdanos",
+    "displayName": "AvdanOS",
+    "description": "The official AvdanOS Visual Studio Code theme!",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "AvdanOS Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AvdanOS Dark-color-theme.json"
+            }
+        ]
+    }
+}
