@@ -2,7 +2,10 @@
     "name": "avdanos",
     "displayName": "AvdanOS",
     "description": "The official AvdanOS Visual Studio Code theme!",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "icon": "images/logo.png",
+    "publisher": "akane6704",
+    "repository": "avdanos-vscode-theme",
     "engines": {
         "vscode": "^1.60.0"
     },
