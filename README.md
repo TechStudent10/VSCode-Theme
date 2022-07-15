@@ -1,6 +1,5 @@
-# All work on this repo is now under the ownership
- of Avdan-OS under the repo vs-code-theme: [Link to the repo](https://github.com/Avdan-OS/vs-code-theme)
- 
+# All work on this repo is now under the ownership of Avdan-OS under the repo vs-code-theme: [Link to the repo](https://github.com/Avdan-OS/vs-code-theme)
+
 ## AvdanOS Visual Studio Code Theme
 This is the official Visual Studio Code theme!
 
